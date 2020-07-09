@@ -21,6 +21,10 @@ If you're using something different feel free to create a PR. :sparkles:
 - [Jitsi](https://meet.jit.si/)
 
 ## Streaming Platforms
+- [YouTube Livstream](https://youtube.com)
+- [Twitch](https://twitch.tv)
+
+## Streaming Tools
 
 - [OBS Studio](https://obsproject.com/)
 - [StreamYard](https://streamyard.com/) (if you love branding, you can go for the paid plans)
