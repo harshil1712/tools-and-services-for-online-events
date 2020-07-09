@@ -35,3 +35,10 @@ If you're using something different feel free to create a PR. :sparkles:
 
 - [Nodecg](https://nodecg.com/)
 - [Holographics](https://hologfx.io/)
+
+## Hosting Quizes
+
+- [Kahoot](https://kahoot.it/)
+- [MyQuiz](https://myquiz.org/)
+- [Quizizz](https://quizizz.com/join)
+- [Google Forms](https://support.google.com/docs/answer/7032287?hl=en)
