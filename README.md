@@ -36,7 +36,7 @@ If you're using something different feel free to create a PR. :sparkles:
 - [Nodecg](https://nodecg.com/)
 - [Holographics](https://hologfx.io/)
 
-## Hosting Quizes
+## Hosting Quizzes
 
 - [Kahoot](https://kahoot.it/)
 - [MyQuiz](https://myquiz.org/)
