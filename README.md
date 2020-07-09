@@ -21,6 +21,7 @@ If you're using something different feel free to create a PR. :sparkles:
 - [Jitsi](https://meet.jit.si/)
 
 ## Streaming Platforms
+
 - [YouTube Livstream](https://youtube.com)
 - [Twitch](https://twitch.tv)
 
@@ -29,3 +30,8 @@ If you're using something different feel free to create a PR. :sparkles:
 - [OBS Studio](https://obsproject.com/)
 - [StreamYard](https://streamyard.com/) (if you love branding, you can go for the paid plans)
 - [StreamLabs OBS](https://streamlabs.com) (Similar to OBS with many streaming Features)
+
+## Graphics for Streaming
+
+- [Nodecg](https://nodecg.com/)
+- [Holographics](https://hologfx.io/)
